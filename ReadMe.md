@@ -19,11 +19,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumikroy006&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soumikroy006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+## 🏆 GitHub Achievements
+
+Explore my coding journey and contributions on [my GitHub profile](https://github.com/soumikroy006).
 
 # ✍️ Random Dev Quote
 
@@ -31,11 +30,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
 </p>
 
-# 🔝 Top Contributed Repositories
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=soumikroy006&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
-</p>
+## 🔝 Explore My Projects
+
+Check out my [repositories on GitHub](https://github.com/soumikroy006?tab=repositories) to explore my projects, experiments, and coding practice.
+
 
 ---
 
